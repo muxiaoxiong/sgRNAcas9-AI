@@ -25,9 +25,7 @@ pip install pandas
 pip install tensorflow
 ```
 
-4.Verify that sgRNACas9-AI is ins
-
-talled using the command:
+4.Verify that sgRNACas9-AI is installed using the command:
 
 ```python
 python sgRNACas9-AI.py --help
