@@ -42,7 +42,7 @@ sgRNACas9-AI requires main two parameters:
 For example:
 
 ```python
-python sgRNACas9-AI.py -i gene.fa -g genome.fa -a -m 3 -p NGG -t 8 -o result.txt
+python sgRNACas9-AI.py -i gene.fa -g genome.fa -a SpCas9 -m 3 -p NGG -t 8 -o result.txt
 ```
 
 Parameter list：
