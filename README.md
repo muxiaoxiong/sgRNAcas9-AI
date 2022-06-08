@@ -12,7 +12,7 @@ This tool can only be run on Linux systems, the steps to install the necessary d
 
 1.python3
 
-  Linux[https](https://www.python.org/downloads/source/) ://www.python.org/downloads/source/
+  Linux:[https](https://www.python.org/downloads/source/) ://www.python.org/downloads/source/
 
 2.Install pip (pip should come with Python, but this should ensure it is present; see https://pip.pypa.io/en/stable/installation/)
 
